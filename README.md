@@ -94,4 +94,5 @@ entry/src/main/
 
 ## License
 
-模型权重与 MNN 相关组件遵循其各自原始许可（EmbeddingGemma：Gemma Terms of Use；MNN：Apache-2.0）。应用代码部分仅作学习研究用途。
+- 应用源代码：[Apache-2.0](LICENSE)，Copyright 2026 yphou
+- 第三方组件（MNN、EmbeddingGemma-2 模型、Google AI Edge Gallery UI 参照）权利归各自所有者，见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)；模型权重的使用须遵守 [Gemma Terms of Use](https://ai.google.dev/gemma/terms)
