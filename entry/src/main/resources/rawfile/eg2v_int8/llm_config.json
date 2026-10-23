@@ -1,0 +1,25 @@
+{
+    "model_type": "embedding_gemma2",
+    "hidden_size": 512,
+    "attention_mask": "int",
+    "jinja": {
+        "chat_template": "task: search result | query: {{ messages | map(attribute='content') | join('') }}"
+    },
+    "is_visual": true,
+    "is_embedding": true,
+    "image_mean": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "image_norm": [
+        0.00392156862745098,
+        0.00392156862745098,
+        0.00392156862745098
+    ],
+    "vision_start": 255999,
+    "vision_end": 258882,
+    "image_pad": 258880,
+    "image_size": 400,
+    "vision_soft_token_budget": 70
+}

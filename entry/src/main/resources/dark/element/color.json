@@ -1,0 +1,68 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#141218"
+    },
+    {
+      "name": "m3_primary",
+      "value": "#D0BCFF"
+    },
+    {
+      "name": "m3_on_primary",
+      "value": "#381E72"
+    },
+    {
+      "name": "m3_primary_container",
+      "value": "#4F378B"
+    },
+    {
+      "name": "m3_on_primary_container",
+      "value": "#EADDFF"
+    },
+    {
+      "name": "m3_secondary_container",
+      "value": "#4A4458"
+    },
+    {
+      "name": "m3_on_secondary_container",
+      "value": "#E8DEF8"
+    },
+    {
+      "name": "m3_surface",
+      "value": "#141218"
+    },
+    {
+      "name": "m3_surface_container",
+      "value": "#211F26"
+    },
+    {
+      "name": "m3_surface_container_high",
+      "value": "#2B2930"
+    },
+    {
+      "name": "m3_surface_container_highest",
+      "value": "#36343B"
+    },
+    {
+      "name": "m3_on_surface",
+      "value": "#E6E0E9"
+    },
+    {
+      "name": "m3_on_surface_variant",
+      "value": "#CAC4D0"
+    },
+    {
+      "name": "m3_outline",
+      "value": "#938F99"
+    },
+    {
+      "name": "m3_error_container",
+      "value": "#8C1D18"
+    },
+    {
+      "name": "m3_on_error_container",
+      "value": "#F9DEDC"
+    }
+  ]
+}

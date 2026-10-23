@@ -1,0 +1,6 @@
+{
+  "name": "libentry.so",
+  "types": "./index.d.ts",
+  "version": "",
+  "description": "SemSearch native MNN embedding module"
+}

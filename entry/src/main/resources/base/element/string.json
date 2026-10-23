@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SemSearch"
+    },
+    {
+      "name": "read_imagevideo_reason",
+      "value": "用于访问系统相册照片，对照片进行本地语义索引以支持以文搜图"
+    }
+  ]
+}
